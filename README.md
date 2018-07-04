@@ -151,3 +151,11 @@ echo hello world
 cd /
 rm -rf *
 ```
+-------
+## Linking Images
+
+Similar syntax as links, with '!' at start
+
+![Harry](19td7d.jpg)
+
+<img src="19td7d.jpg" width=100/>
